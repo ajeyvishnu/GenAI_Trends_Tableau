@@ -1,6 +1,6 @@
 # Generative AI Search Trends Visualization
 
-![Visualization Preview](visualization_preview.png)
+![Visualization Preview](Viz_preview.png)
 
 ## Overview
 
